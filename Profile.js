@@ -42,7 +42,7 @@ export default Profile = ({navigation, route}) => {
               }
             ><Icon name="gift-outline" size={50} color={"white"}/></Button>
 
-<Button
+        <Button
               title="Outline Button"
               buttonStyle={{
                 borderColor: 'rgba(78, 116, 289, 1)',
