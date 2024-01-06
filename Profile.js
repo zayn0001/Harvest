@@ -6,6 +6,7 @@ import { Badge } from "@rneui/base";
 import StatusCard from './StatusCard';
 import Icon from "react-native-vector-icons/MaterialCommunityIcons";
 
+
 export default Profile = ({navigation, route}) => {
 
   const [cards,setCards] = React.useState(route.params)
